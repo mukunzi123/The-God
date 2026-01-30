@@ -1,0 +1,7 @@
+{
+  "name": "Bible Society of Rwanda",
+  "description": "A digital platform for the Bible Society of Rwanda featuring Bible posts, reflections, and a secure admin dashboard powered by AI for spiritual content generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
